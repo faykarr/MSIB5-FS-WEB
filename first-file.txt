@@ -5,3 +5,4 @@ Apa yang saya lakukan hari ini?
 - Mulai membahas materi Git dan Github.
 - Mengenali konsep VCS, Git serta Github.
 - Mempelajari bagaimana cara membuat repository di Github dan manipulasi repositorynya.
+- Mempelajari bagaimana cara membuat branch baru dan merge serta pull request.
