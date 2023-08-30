@@ -3,5 +3,5 @@ Apa yang saya lakukan hari ini?
 - Mengikuti zoom dari NF Computer pukul 08:00 - 12:00
 - Mempelajari materi baru oleh Kak Fathan Mubin.
 - Mulai membahas materi Git dan Github.
-- Mengenali konsep VCS, Git serta Github.
+- Memahami bagaimana konsep VCS, Git serta Github.
 - Mempelajari bagaimana cara membuat repository di Github dan manipulasi repositorynya.
